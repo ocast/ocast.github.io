@@ -9,12 +9,12 @@ Services are all created through Providers.
 
 There are 4 specialized kinds of Providers:
 
-# Constant
+### Constant
 
-# Value
+### Value
 
-# Service
+### Service
 Mostly used to share data over the application.
 
-# Factory: 
+### Factory:
 Mostly used to create a new instance on each controller.
