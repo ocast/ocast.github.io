@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            itech.expert
+tagline:          Yet another blog on software development
+url:              http://itech.expert
 paginate:         1
 baseurl:          /
 author:
