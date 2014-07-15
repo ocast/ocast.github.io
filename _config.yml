@@ -12,9 +12,9 @@ url:              http://itech.expert
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Oscar Castro
+  url:            http://itech.expert
+  email:          oscar.castro@itech.expert
 
 # Custom vars
 version:          1.0.0
